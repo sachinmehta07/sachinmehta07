@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SACHIN MEHTA 👨‍🎓👩‍💻
-- 📚Education: Currently BE in computer eng. LAST YEAR.
+- 📚Education: Currently in BE computer eng. LAST YEAR.
 - 🌱Front-end web development | HTML,CSS,Basic Javascript, Responsive Website 
 -     -- ON THE JOURNEY TO BECOME FULL STACK DEVELOPER--
 <!---
