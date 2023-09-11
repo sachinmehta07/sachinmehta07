@@ -8,7 +8,7 @@
 - 💼 3 Months of Internship as an Android Developer
 
 📫 **Reach Out:**
-- LinkedIn: [https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/sachin-mehta-315a85171/]
+- LinkedIn: https://www.linkedin.com/in/sachin-mehta-315a85171
   
 <!---
 sachinmehta07/sachinmehta07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
