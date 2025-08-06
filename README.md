@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sachin Mehta : Transforming Ideas into Apps
 
-🚀 Android Developer | Kotlin + Jetpack + MVVM | Building apps that solve real-world problems  
+🚀 Software Engineer | Kotlin + Jetpack + MVVM | Building apps that solve real-world problems  
 🎯 Mission: Build usable, scalable apps that help millions — not just write code that compiles  
 
 ---
