@@ -16,11 +16,13 @@ I learn by building — from small modules to full-scale apps.
 
 ---
 
+## Currently working on :
+| [Sector Insight] | Helping users discover better stock sectors to invest in, based on market trends |Gemini AI, Kotlin, MVVM, Retrofit, LiveData () |
+
 ### 🚀 Featured Projects
 
 | Project | What it Solves | Tech |
 |--------|----------------|------|
-| [Sector Insight](https://github.com/sachinmehta07/SectorInsight) | Helping users discover better stock sectors to invest in, based on market trends | Kotlin, MVVM, Retrofit, LiveData |
 | [Amazing Wallpaper](https://play.google.com/store/apps/details?id=com.yttechnolab.amazingwallpaper) | 10K+ users browse and download HD/4K wallpapers smoothly | Glide, REST API, 
 | [AstroTalk](https://github.com/sachinmehta07/Astrotalk) | Video astrology consultation app using secure Jitsi integration | Java, Firebase Auth, Jitsi API |
 | [Digital Passport Photo Maker](https://play.google.com/store/apps/details?id=digitalyttechnolab.passport.photomaker) | Auto-generates passport photos with background selection | Bitmap, Canvas, Image Caching |
