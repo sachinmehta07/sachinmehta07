@@ -16,8 +16,10 @@ I learn by building — from small modules to full-scale apps.
 
 ---
 
-## Currently working on :
-| [Sector Insight] | Helping users discover better stock sectors to invest in, based on market trends |Gemini AI, Kotlin, MVVM, Retrofit, LiveData () |
+### Currently Working / Learning  : 
+| Project | What it Solves | Tech |
+|--------|----------------|------|
+| [Sector Insight] | Helping users discover better stock sectors to invest in, based on market trends |Gemini AI, Kotlin, MVVM, Retrofit, LiveData |
 
 ### 🚀 Featured Projects
 
